@@ -7,7 +7,10 @@
 .wrapper {
     width: 100%;
     margin: auto;
-    background-color: rgb(130, 190, 245);
+    background-color: rgb(214, 210, 210);
+    /*
+    rgb(130, 190, 245)
+    */
 }
 
 .nav-area {
