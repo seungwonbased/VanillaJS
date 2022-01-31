@@ -17,14 +17,16 @@
 }
 
 .projects {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
     list-style: none;
+    text-align: center;
 }
 
 .projects li {
-    margin: 3px;
+    margin: 30px;
 }
 
 .projects li a {
